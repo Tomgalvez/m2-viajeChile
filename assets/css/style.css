@@ -1,0 +1,51 @@
+* {
+    font-family: Raleway, sans-serif;
+}
+
+h1{
+    font-size: 20px;
+}
+
+/* Inicio estilos quienesomos */
+
+#quienesomos {
+    background-color: black;
+    color: white;
+    
+
+}
+
+.card img{
+    aspect-ratio: 4000/2667;
+}
+
+
+/* Fin estilos quienesomos */
+
+/* Inicio estilos contacto */
+
+#contacto {
+    background-color: black;
+    color: white;
+}
+
+/* Fin estilos quienesomos */
+
+/* Inicio estilos footer */
+
+footer p {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+footer i {
+    font-size: 30px;
+}
+
+#iconstyle .icono1 {
+   
+    color: white;
+
+}
+
+/* Fin estilos footer */
